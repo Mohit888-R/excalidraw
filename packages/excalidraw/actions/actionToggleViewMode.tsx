@@ -23,5 +23,5 @@ export const actionToggleViewMode = register({
   },
   contextItemLabel: "labels.viewMode",
   keyTest: (event) =>
-    !event[KEYS.CTRL_OR_CMD] && event.altKey && event.code === CODES.R,
+    !event[KEYS.CTRL_OR_CMD] && event.altKey && event.code === CODES.C,
 });

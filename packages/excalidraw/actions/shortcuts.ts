@@ -80,7 +80,7 @@ const shortcutMap: Record<ShortcutName, string[]> = {
   addToLibrary: [],
   flipHorizontal: [getShortcutKey("Shift+H")],
   flipVertical: [getShortcutKey("Shift+V")],
-  viewMode: [getShortcutKey("Alt+R")],
+  viewMode: [getShortcutKey("Alt+C")],
   hyperlink: [getShortcutKey("CtrlOrCmd+K")],
   toggleElementLock: [getShortcutKey("CtrlOrCmd+Shift+L")],
 };
